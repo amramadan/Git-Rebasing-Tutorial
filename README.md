@@ -160,7 +160,7 @@ Summary:
 =======
 1- clone the repo
 
-2- go to directory
+2- go to repository's directory
 
 3- check the commit on gitk
 
@@ -170,7 +170,9 @@ Summary:
 
 6- Choose the type of edit
 
-7- confirm and you are done!
+7-edit
+
+7- confirm edit and you are done!
 
 
 
