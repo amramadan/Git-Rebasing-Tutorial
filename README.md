@@ -119,7 +119,7 @@ Now take a second look at gitlog and gitk to see the changes:
 
 ## But wait lets take another example okay?!
 
-we will continue with the same story, as if you look up and read it you will find there is another fix I need to do and it is combine the fourth and fifth commit
+we will continue with the same story, look up at the top and read it you will find there is another fix I need to do and it is combine the fourth and fifth commit
 
 (look at the last two pictures these are how my gitk and gitlog look now)
 
