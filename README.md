@@ -33,7 +33,7 @@ Story:
 How to solve ?
 ==============
 
-## A)Cloning:-
+### A)Cloning:-
 
 1- clone the repo by running (Just add the repo's link beside git clone)
 
@@ -47,7 +47,7 @@ How to solve ?
 
 (If you also want to know how to fork before cloning then cloning the forksee this: https://help.github.com/articles/fork-a-repo/)
 
-## B)Check the commits:-
+### B)Check the commits:-
 
 1-Install gitk by following this link: http://git-scm.com/downloads
 
@@ -67,7 +67,7 @@ How to solve ?
 
 ![2](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/2.png)
 
-## C)Rebasing:-
+### C)Rebasing:-
 
 Look at either the gitlog or the gitk you will see an ID for commits, see which commit you want to start editing from (like I wanted to start from the begining), and run this:
 
@@ -115,9 +115,9 @@ Now take a second look at gitlog and gitk to see the changes:
 
 ![9%20and%2011](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/9%20and%2011.png)
 
-### Congrats you have completed your first rebase
+## Congrats you have completed your first rebase
 
-## But wait lets take another example okay?!
+# But wait lets take another example okay?!
 
 we will continue with the same story, look up at the top and read it you will find there is another fix I need to do and it is combine the fourth and fifth commit
 
