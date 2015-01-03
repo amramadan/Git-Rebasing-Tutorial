@@ -76,13 +76,13 @@ Look at either the gitlog or the gitk you will see an ID for commits, see which 
 
 (where 8d9cbc6a337 is the ID of the commit I choose and as you see I didn't have to write it all so you can write like ten alphanumeric characters)
 
-### When I ran it I faced something strange this:
+### When I ran it I faced something strange:
 
 ![3(1)](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/3(1).png)
 
-So I justed followed the stated instructions to identify, who I am!! (My computer doesn't know its owner epic xD)
+So I just followed the stated instructions to identify, who I am!! (My computer doesn't know its owner epic xD)
 
-But, after Identifying who I am I ran the same code again, and this is what I got:
+But, after Identifying who I am I ran the same code again, successfully:
 
 ![3(2)](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/3(2).png)
 
