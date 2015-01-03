@@ -125,11 +125,11 @@ we will continue with the same story, look up at the top and read it you will fi
 
 I will re-run:
 
-    rebase -i
+    git rebase -i
 
 But this time I don't want it from the first commit, So I will run:
 
-    rebase -i a5761b2d8be3723
+    git rebase -i a5761b2d8be3723
 
 (again! I did not write the entire ID)
 
@@ -154,7 +154,31 @@ now! another look after another successful rebase at git log and gitk (take a go
 ![17](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/17.png)
 
 
-Now! you should have the basics of rebasing :D
+##### But, now I remember that, I want to hide the fifth commit's log message
+
+remember reword?(yes, well do it alone then look at the pictures to understand or for help)
+
+start, git log:
+
+        git log
+
+okay, look at git log, then start the
+
+        git rebase -i ID
+
+choose the type of edit to the commit (I choose reword)
+
+![19](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/19.png)
+
+make the edit and confirm !
+
+![20](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/20.png)
+
+![21](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/21.png)
+
+look at git log and see the diffrence:
+
+![22](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/22.png)
 
 Summary:
 =======
