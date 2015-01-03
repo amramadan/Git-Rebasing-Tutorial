@@ -147,7 +147,7 @@ It will show you the messages of both commits to edit either (if you want, I did
 
 ![15](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/15.png)
 
-now! another look after another successful rebase at git log and gitk
+now! another look after another successful rebase at git log and gitk (take a good look at the git log both fifth and fourth commit's log message are there)
 
 ![16](https://github.com/amroto/Git-Rebasing-Tutorial/blob/master/pics/16.png)
 
